@@ -1,0 +1,72 @@
+.addItems input
+{
+    width: 15%;
+    height: 30px;
+}
+.main-div
+{
+    margin-top: 20%;
+    color: white;
+}
+.addItems i
+{
+    color: green;
+    margin-left: -22px;
+}
+.addItems i:hover
+{
+    color:black;
+    margin-left: -22px;
+}
+.eachItem
+{
+    background-color: rgb(56, 56, 112);
+    height: 40px;
+    width: 284px;
+    margin-left: 8px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.eachItem:hover
+{
+    background-color: white;
+    color: rgb(56, 56, 112);
+    
+}
+.showItems
+{
+    text-align: center;
+    display: grid;
+    justify-content: center;
+    
+}
+.eachItem i
+{
+    margin-right: 10px;
+    color:rgb(220, 44, 44);
+    font-size: 22px;
+    margin-top: 10px;
+}
+
+.eachItem h3
+{
+       margin-left: 120px; 
+       margin-top: 9px;
+}
+.clrButoon
+{
+    width: 130px;
+    height: 40px;
+    font-size: 20px;
+    background-color: white;
+    color: rgb(56, 56, 112);
+    border: none;
+    margin-top: 20px;
+}
+.clrButoon:hover
+{
+    background-color: rgb(56, 56, 112);
+    color:white ;
+
+}
